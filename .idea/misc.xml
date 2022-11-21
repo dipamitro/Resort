@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/calender.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/day_bg.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/description.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/hour_bg.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/ic_baseline_calendar.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/ic_baseline_calender_today.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/ic_big_blob.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/ic_big_blob_2.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/ic_blob.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/ic_humidity.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/ic_pressure.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/ic_visibility.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/ic_wind.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/layer.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/layer2.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/location.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/main_bg.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/search.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/search2.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/drawable/search_city.xml" value="0.136" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/font/acme.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/font/cabin.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/font/capriola.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/font/carrois_gothic.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/font/cool.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/font/dipa.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/font/oswald.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/font/raleway_bold.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/font/roboto.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/font/roboto_condensed_regular.xml" value="0.1" />
+        <entry key="..\:/Autumn 2022/WEATHER/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
